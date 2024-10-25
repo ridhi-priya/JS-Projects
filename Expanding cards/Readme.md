@@ -1,1 +1,1 @@
-<a href="https://golden-douhua-c1f96c.netlify.app/">Live Link </a>
+<a target="_blank" href ="https://golden-douhua-c1f96c.netlify.app/">Live Link </a>
